@@ -1,0 +1,11 @@
+GEM
+  specs:
+    daemons (1.1.9)
+    trollop (2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  daemons
+  trollop
